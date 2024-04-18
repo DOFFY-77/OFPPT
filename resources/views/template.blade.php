@@ -14,9 +14,9 @@
     <div class="container-fluid box">
         <ul class="nav">
             <li>
-                <a href="#">
+                <i>
                     <img src="img/logo.png" alt="Logo"/>
-                </a>
+                </i>
             </li>
             <li class="active">
                 <a href="{{route('dashboard')}}"  id="lien-1">
