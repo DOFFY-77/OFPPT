@@ -56,6 +56,7 @@
                 <h4>2024/2025</h4>
             </div>
             <div class="content">
+                @include('sections.dashboard')
             @yield('content')
             </div>
         </div>   
