@@ -37,6 +37,12 @@ php artisan migrate
 php artisan serve
 ```
 
+3. Than use this link 
+
+```
+http://127.0.0.1:8000/template
+```
+
 
 
 
