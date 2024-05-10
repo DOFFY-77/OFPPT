@@ -14,3 +14,4 @@ Route::view('/settings','sections.settings')->name('settings');
 Route::get('/template', function () {
     return view('template');
 })->name('template');
+Route::redirect('/', '/template');
